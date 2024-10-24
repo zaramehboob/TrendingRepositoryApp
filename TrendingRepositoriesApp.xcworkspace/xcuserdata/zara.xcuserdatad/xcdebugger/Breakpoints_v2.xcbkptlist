@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4A3EBA3C-02DE-429D-95B6-49CD8BDCA093"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54AE907A-854B-4491-A4B0-9A36FDF1394F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TrendingRepositoriesKitTests/Presentation/TrendingRepositoryListViewModelTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "test_errorString_whenFetched_failure()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "54AE907A-854B-4491-A4B0-9A36FDF1394F - 7af656b50de0543f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in TrendingRepositoriesKitTests.TrendingRepositoryListViewModelTests.test_errorString_whenFetched_failure() -&gt; ()"
+                  moduleName = "TrendingRepositoriesKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zara/Documents/projects/Assignment/TrendingRepositoriesApp/TrendingRepositoriesKitTests/Presentation/TrendingRepositoryListViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "115">
+               </Location>
+               <Location
+                  uuid = "54AE907A-854B-4491-A4B0-9A36FDF1394F - 7af656b50de0543f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in TrendingRepositoriesKitTests.TrendingRepositoryListViewModelTests.test_errorString_whenFetched_failure() -&gt; ()"
+                  moduleName = "TrendingRepositoriesKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zara/Documents/projects/Assignment/TrendingRepositoriesApp/TrendingRepositoriesKitTests/Presentation/TrendingRepositoryListViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "87">
+               </Location>
+               <Location
+                  uuid = "54AE907A-854B-4491-A4B0-9A36FDF1394F - 7af656b50de05554"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in TrendingRepositoriesKitTests.TrendingRepositoryListViewModelTests.test_errorString_whenFetched_failure() -&gt; ()"
+                  moduleName = "TrendingRepositoriesKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zara/Documents/projects/Assignment/TrendingRepositoriesApp/TrendingRepositoriesKitTests/Presentation/TrendingRepositoryListViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "87">
+               </Location>
+               <Location
+                  uuid = "54AE907A-854B-4491-A4B0-9A36FDF1394F - 7af656b50de055c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in TrendingRepositoriesKitTests.TrendingRepositoryListViewModelTests.test_errorString_whenFetched_failure() -&gt; ()"
+                  moduleName = "TrendingRepositoriesKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zara/Documents/projects/Assignment/TrendingRepositoriesApp/TrendingRepositoriesKitTests/Presentation/TrendingRepositoryListViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "87">
+               </Location>
+               <Location
+                  uuid = "54AE907A-854B-4491-A4B0-9A36FDF1394F - 7af656b50de05537"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in TrendingRepositoriesKitTests.TrendingRepositoryListViewModelTests.test_errorString_whenFetched_failure() -&gt; ()"
+                  moduleName = "TrendingRepositoriesKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zara/Documents/projects/Assignment/TrendingRepositoriesApp/TrendingRepositoriesKitTests/Presentation/TrendingRepositoryListViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "87">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "54AE907A-854B-4491-A4B0-9A36FDF1394F - 7af656b50de04a4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in TrendingRepositoriesKitTests.TrendingRepositoryListViewModelTests.test_errorString_whenFetched_failure() -&gt; ()"
+                  moduleName = "TrendingRepositoriesKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zara/Documents/projects/Assignment/TrendingRepositoriesApp/TrendingRepositoriesKitTests/Presentation/TrendingRepositoryListViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "87">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "1421F396-8BB8-42F9-81D2-0ED482D73E3C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC7014F2-0311-4868-98DE-E95D55559274"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TrendingRepositoriesKit/Data/TrendingRepositoriesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "fetchRepositories(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3DBA4ED0-686D-47E6-ABBD-E49C5C89FCEF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TrendingRepositoriesKit/Data/TrendingRepositoriesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "fetchRepositories(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EABE00CD-0FE2-4DF2-B85B-CF48C5D7E485"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TrendingRepositoriesKit/Presentation/Views/RepositoryCellView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "nameLabel"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "EABE00CD-0FE2-4DF2-B85B-CF48C5D7E485 - 1a81aba796fa8f4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UILabel in TrendingRepositoriesKit.RepositoryCellView.nameLabel.getter : __C.UILabel"
+                  moduleName = "TrendingRepositoriesKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zara/Documents/projects/Assignment/TrendingRepositoriesApp/TrendingRepositoriesKit/Presentation/Views/RepositoryCellView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  uuid = "EABE00CD-0FE2-4DF2-B85B-CF48C5D7E485 - 1a81aba796fa8f4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UILabel in TrendingRepositoriesKit.RepositoryCellView.nameLabel.getter : __C.UILabel"
+                  moduleName = "TrendingRepositoriesKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zara/Documents/projects/Assignment/TrendingRepositoriesApp/TrendingRepositoriesKit/Presentation/Views/RepositoryCellView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "201">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
